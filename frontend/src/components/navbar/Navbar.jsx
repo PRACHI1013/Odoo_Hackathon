@@ -42,13 +42,13 @@ const Navbar = () => {
                 </Link>
               </li>
               <li className="nav-item mx-2">
-                <Link
+                {/* <Link
                   className="nav-link active"
                   aria-current="page"
                   to="/about"
                 >
                   About Us
-                </Link>
+                </Link> */}
               </li>
               <li className="nav-item mx-2">
                 <Link
